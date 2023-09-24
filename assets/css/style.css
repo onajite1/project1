@@ -129,25 +129,25 @@ height: 300px;
 }
 }
 
-@media (max-width: 896px) and (orientation :landscape) {
+@media (max-width: 736px) and (orientation :landscape) {
 	body {
-	width: 896px;
+	width: 736px;
 	margin: 0px;
 
 }
 
 .header {
-	width:896px;
+	width:736px;
 	height: 100px;
 	background-color:blanchedalmond;
 }
 	.container {
-	width: 896px;
+	width: 736px;
 	height: 1280px;
 }
 
 	.socials {
-	width: 896px;
+	width: 736px;
 	height: 700px;
 	word-wrap: break-word;
 	float: left;
@@ -157,7 +157,7 @@ height: 300px;
 	
 }
 	.box1 {
-	width: 896px;
+	width: 736px;
 	margin-left: 0px;
 	margin-top: 171px;
 }
@@ -167,7 +167,7 @@ height: 300px;
 	background-color: aqua
 }
 	.photo-grid {
-	width: 896px;
+	width: 736px;
 	height: 700px;
 	float: right;
 	background-color:blanchedalmond;
@@ -177,12 +177,12 @@ height: 300px;
 height: 300px;
 }
 	.box2 {
-	width: 896px;
+	width: 736px;
 	margin-left: 0px;
 }
 
 	.photo-grid-text {
-	width: 896px;
+	width: 736px;
 	word-wrap: break-word;
 	text-align: center;
 	background-color: white;
