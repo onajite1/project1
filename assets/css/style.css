@@ -1,7 +1,7 @@
 body {
 	width: auto;
 	margin: 0px;
-	height: 2000px;
+	background-image: url("assets/images/side-bg.jpg");
 
 }
 
@@ -13,7 +13,7 @@ body {
 
 .container {
 	width: 1366px;
-	height: 1280px;
+
 }
 
 .socials {
